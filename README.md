@@ -1,5 +1,5 @@
 # Mobile Factory Code Challenge
-
+The Mobile Factory Code Challenge involves creating a Django API to configure mobile devices. Customers select components like screens, cameras, and OS, ensuring one part from each category. The system calculates the total price without a database, using local memory for part details, ensuring a validated and priced order output.
 
 ## Code Explanation
 
